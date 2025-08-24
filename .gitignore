@@ -1,0 +1,9 @@
+build/*
+git_flow.egg-info/*
+/git_flow/.env
+*.pyc
+/.coverage
+/.coveragerc
+/userstore.egg-info/*
+/.env
+/pydantic_webhooks.egg-info/*

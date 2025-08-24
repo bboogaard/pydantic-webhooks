@@ -1,0 +1,5 @@
+[pytest]
+python_files = tests.py
+addopts = --cov
+env =
+  WEBHOOKS_WEBHOOK_URL=http://example.com/webhook
